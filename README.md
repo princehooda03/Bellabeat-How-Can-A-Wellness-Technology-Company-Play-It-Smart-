@@ -1,4 +1,5 @@
 How Can a Wellness Technology Company Play It Smart?
+
 In this scenario, we are working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Urška Sršen, cofounder and Chief Creative Oﬃcer of Bellabeat, believes that analyzing smart device ﬁtness data could help unlock new growth opportunities for the company.
 
 The task
