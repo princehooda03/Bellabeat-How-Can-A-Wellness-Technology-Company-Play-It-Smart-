@@ -16,8 +16,13 @@ The report
 The insights will be presented following the data analysis process steps:
 
 ASK: Identify the problem to be solved and how our insights can drive business decisions.
+
 PREPARE: Gather the relevant data, organize it and store it. Verify data integrity and credibility.
+
 PROCESS: Choose tools to handle the data and identify its advantages. Clean our data and ensure it is ready for analysis. Document the cleaning process and save cleaned data.
+
 ANALYZE: Organize and format the data to answer our questions. Perform calculations and identify trends and relationships within the data.
+
 SHARE: Create visualizations to share most relevant findings. Relate findings to original questions.
+
 ACT: present final conclusions and suggested approach to deal with findings and next steps.
